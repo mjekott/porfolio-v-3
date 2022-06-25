@@ -1,7 +1,7 @@
 ---
 title: my life stoey
 date: 2022-06-25T23:41:21.992Z
-thumbnail: /static/img/827a88e7-c942-4e33-999d-f6b68e323a00-1.png
+thumbnail: /static/img/banner-2.png
 ---
 ## 44##
 
